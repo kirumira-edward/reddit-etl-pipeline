@@ -1,0 +1,27 @@
+# Core data processing
+pandas==2.0.3
+numpy==1.24.3
+
+# AWS integration
+boto3==1.28.65
+botocore==1.31.65
+PyyAthena==2.4.1
+
+# Data formats
+pyarrow==14.0.1
+fsspec==2023.9.2
+s3fs==2023.9.2
+
+# Reddit API
+praw==7.7.1
+prawcore==2.4.0
+
+# Environment and configuration
+python-dotenv==1.0.0
+
+# Logging and utilities
+logging==0.4.9.6
+
+# Optional visualization dependencies
+matplotlib==3.8.0
+seaborn==0.13.0
